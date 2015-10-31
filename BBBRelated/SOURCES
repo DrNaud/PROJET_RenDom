@@ -1,0 +1,22 @@
+BEAGLEBONESOURCES:
+
+//HARDWARE:
+//INFRARED: https://groups.google.com/forum/#!topic/beagleboard/pnlx11e3Upg
+//LCD CAPE: http://www.robotshop.com/ca/fr/affichage-lcd-tft-cape-7-beagleboard.html#description
+
+//SOFTWARE:
+//BLACKLIB: ------------ http://blacklib.yigityuce.com/
+//BLACKLIB: ------------ https://www.youtube.com/watch?v=z2oxrV_jtD8
+//CROSS-COMPILING: ----- http://visualgdb.com/tutorials/beaglebone/qt5/cross-compile/
+//C++ PROGRAMMING (LED): http://elinux.org/Beagleboard:C/C%2B%2B_Programming
+//INFRARED (LIRC): ----- http://stackoverflow.com/questions/22652156/how-to-use-irrecord-with-2ms-timing-instead-of-the-default-5ms
+//INFRARED (LIRC): ----- https://groups.google.com/forum/#!category-topic/beagleboard/linux/7RXkK-FIJdY
+//INSTALLING DEV TOOLS:  https://www.facebook.com/download/1179933625355397/Installation%20des%20outils%20de%20d%C3%A9veloppement%20en%20C.pdf
+//INTERESTING SOFTWARE:  http://www.dummies.com/how-to/content/10-interesting-software-packages-for-the-beaglebon.html
+//PRU: ----------------- https://www.youtube.com/watch?v=6ytju0bkkiQ
+//PRU: ----------------- https://www.youtube.com/watch?v=ZNz45v9Uesg
+//SOFTWARE UPDATE: ----- http://beagleboard.org/latest-images
+
+//TUTORIALS:
+//GETTING STARTED WITH BEAGLEBONE BLACK: - https://www.youtube.com/watch?v=thfxL7KAAyQ
+//INTRODUCTION TUTORIAL AND FIRST EXAMPLE: https://www.youtube.com/watch?v=z6b4zlh0IrE
