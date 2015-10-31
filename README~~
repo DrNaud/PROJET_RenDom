@@ -20,13 +20,7 @@ pour envoyer, mettre à jour, commit, etc. des fichiers dans github.
 
 //COMMIT, PUSH, PULL, ETC.
 
-	//METTRE A JOUR VOS FICHIERS SELON LE SERVEUR GITHUB
-	-git pull origin master
-
-	//METTRE A JOUR LES FICHIERS DU SERVEUR SELON VOS FICHIERS
-	-git add . //Ajoute TOUT vos changements
-	-git commit -m "xxxCOMMIT_DESCRIPTIONxxx" //Cree une version de fichiers (?)
-	-git push origin master // Envoi du dernier commit vers le serveur github
+	...
 
 	
 
