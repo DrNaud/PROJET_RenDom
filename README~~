@@ -1,0 +1,26 @@
+==============================README================================
+Dans ce fichier seront énumérées les différentes commandes utilisées
+pour envoyer, mettre à jour, commit, etc. des fichiers dans github.
+====================================================================
+
+//CONFIGURATION GITHUB (NOUVEL APPAREIL)
+
+	////INSTALLATION/CONFIGURATION INITIALE
+	-sudo apt-get install git //Installation de Git
+	-git config --global user.name "xxxYOUR_USERNAMExxx"
+	-git config --global user.email "xxxYOUR_EMAILxxx"
+	
+	////CRÉER UN REPOSITORY À PARTIR DE github.com
+
+	////CRÉER UN DOSSIER SUR VOTRE ORDINATEUR SYNCHRONISÉ AVEC GITHUB
+	-mkdir xxxNOM_DU_DOSSIERxxx //idéalement le même nom que votre repository github
+	-cd xxxNOM_DU_DOSSIERxxx
+	-git init //initialisation de git dans le dossier
+	-git remote add origin https://github.com/xxxUTILISATEUR_CRÉATEURxxx/xxxREPOSITORY_NAMExxx.git
+
+//COMMIT, PUSH, PULL, ETC.
+
+	...
+
+	
+
